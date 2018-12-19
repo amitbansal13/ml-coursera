@@ -12,7 +12,7 @@
 %     predictOneVsAll.m
 %     predict.m
 %
-%  For this exercise, you will not need to change any code in this file,
+%  For this exercise, you do not need to change any code in this file,
 %  or any other files other than those mentioned above.
 %
 
